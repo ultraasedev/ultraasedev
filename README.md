@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="mailto:g.franck@kotanadigi.com">
-    <img src="https://www.nidirect.gov.uk/sites/default/files/styles/nigov_full_620_x1/public/images/email_logo.jpg?itok=ifUhNgCT"
+    <img src="https://cdn-icons-png.flaticon.com/512/1057/1057100.png"
          alt="Email" width="80" height="80">
   </a>
   <a href="https://bento.me/gfranck">
