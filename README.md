@@ -18,5 +18,9 @@
     <img src="https://www.nidirect.gov.uk/sites/default/files/styles/nigov_full_620_x1/public/images/email_logo.jpg?itok=ifUhNgCT"
          alt="Email" width="80" height="80">
   </a>
+  <a href="https://bento.me/gfranck">
+    <img src="https://global-uploads.webflow.com/6335b33630f88833a92915fc/63e501246a370e0d4462f2ed_herologo.png"
+         alt="Lien Bento" width="80" height="80">
+  </a>
  
 
